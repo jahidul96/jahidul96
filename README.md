@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jahidul96
+- 👋 Hi, I’m jahidul islam..
 - 👀 I’m interested in javascript and  js related tech
 - 🌱 I’m currently learning mern stack and have good knowledge in design part including react native frontend also
 - 💞️ I’m looking to collaborate on mren projects and web design 
