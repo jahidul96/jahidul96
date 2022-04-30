@@ -5,7 +5,12 @@ Web designer, React and React native developer
 I have 1 year's of experience in frontend technologies and worked on various local project.i love to learn new tech and contribute in different projects.* 
 
 
-🌍 I'm based in chittagong, bangladesh* 🖥️  See my portfolio at [jahidul-f4fa0.web.app](http://demoproject-d6fd6.firebaseapp.com)* ✉️  You can contact me at [jahidul96@yahoo.com](mailto:jahidul96@yahoo.com)* 🧠  I'm learning advance React native* 🤝  I'm open to collaborating on react, react native and web projects* ⚡  i nothing but a human being
+🌍 I'm based in chittagong, bangladesh* 
+🖥️  See my portfolio at [jahidul-f4fa0.web.app](http://demoproject-d6fd6.firebaseapp.com)* 
+✉️  You can contact me at [jahidul96@yahoo.com](mailto:jahidul96@yahoo.com)*
+🧠  I'm learning advance React native* 
+🤝  I'm open to collaborating on react, react native and web projects* 
+⚡  i nothing but a human being
 
 ### Skills
 
