@@ -1,5 +1,11 @@
 Hi 👋 My name is Jahidul islam
-==============================Web designer, React and React native developer----------------------------------------------I have 1 year's of experience in frontend technologies and worked on various local project.i love to learn new tech and contribute in different projects.* 🌍  I'm based in chittagong, bangladesh* 🖥️  See my portfolio at [jahidul-f4fa0.web.app](http://demoproject-d6fd6.firebaseapp.com)* ✉️  You can contact me at [jahidul96@yahoo.com](mailto:jahidul96@yahoo.com)* 🧠  I'm learning advance React native* 🤝  I'm open to collaborating on react, react native and web projects* ⚡  i nothing but a human being
+
+Web designer, React and React native developer
+
+I have 1 year's of experience in frontend technologies and worked on various local project.i love to learn new tech and contribute in different projects.* 
+
+
+🌍 I'm based in chittagong, bangladesh* 🖥️  See my portfolio at [jahidul-f4fa0.web.app](http://demoproject-d6fd6.firebaseapp.com)* ✉️  You can contact me at [jahidul96@yahoo.com](mailto:jahidul96@yahoo.com)* 🧠  I'm learning advance React native* 🤝  I'm open to collaborating on react, react native and web projects* ⚡  i nothing but a human being
 
 ### Skills
 
@@ -11,9 +17,5 @@ Hi 👋 My name is Jahidul islam
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jahidul96"><img src="https://github-readme-stats.vercel.app/api?username=jahidul96&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jahidul96's GitHub stats" /></a>
-
-<a href="http://www.github.com/jahidul96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidul96&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/jahidul96"><img src="https://activity-graph.herokuapp.com/graph?username=jahidul96&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/jahidul96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul96&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
