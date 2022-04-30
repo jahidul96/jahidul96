@@ -6,7 +6,7 @@ I have 1 year's of experience in frontend technologies and worked on various loc
 
 
 🌍 I'm based in chittagong, bangladesh* 
-🖥️  See my portfolio at [jahidul-f4fa0.web.app](http://demoproject-d6fd6.firebaseapp.com)* 
+🖥️  See my portfolio at [jahidul-f4fa0.web.app](http://jahidul-f4fa0.web.app)* 
 ✉️  You can contact me at [jahidul96@yahoo.com](mailto:jahidul96@yahoo.com)*
 🧠  I'm learning advance React native* 
 🤝  I'm open to collaborating on react, react native and web projects* 
