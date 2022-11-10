@@ -10,6 +10,5 @@ I have 1 year's of experience in frontend technologies and worked on various loc
 ✉️  You can contact me at [jahidulislamakashroy96@gmail.com](mailto:jahidulislamakashroy96@gmail.com)*
 🧠  I'm learning advance React native* 
 🤝  I'm open to collaborating on react, react native and web projects* 
-⚡  i nothing but a human being
 
 
