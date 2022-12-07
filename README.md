@@ -13,8 +13,6 @@ Skills:   HTML / CSS / JS / React / React Native / node js / mongo dB / express
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul96)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidul96&show_icons=true&count_private=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jahidul96)  
 
 ![Profile views](https://gpvc.arturio.dev/jahidul96)  
