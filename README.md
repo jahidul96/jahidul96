@@ -12,3 +12,6 @@ I have 1 year's of experience in frontend technologies and worked on various loc
 🤝  I'm open to collaborating on react, react native and web projects* 
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidul96)](https://github.com/anuraghazra/github-readme-stats)
+
+
