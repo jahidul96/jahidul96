@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Jahidul
-#### I am React and React native (Mern Stack) Dev
+#### I am React and React native (Mern Stack) Developer
 ![I am React and React native (Mern Stack) Dev](https://github.com/jahidul96/jahidul96/blob/main/cover.png)
 
-I have 1 years of experience in frontend technologies and worked on various local project and working as a project base developer. I love to learn new tech and contribute to different projects. 
+I have 1 years of experience in frontend technologies and worked on various local project and working as a project base developer. I love to learn new tech and contribute to different projects. if you have any related project you can knock me. thank you!. 
 
 Skills:   HTML / CSS / JS / React / React Native / node js / mongo dB / express 
 
