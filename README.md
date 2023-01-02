@@ -15,4 +15,4 @@ Skills:   HTML / CSS / JS / React / React Native / node js / mongo dB / express
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jahidul96)  
 
-![Profile views](https://gpvc.arturio.dev/jahidul96)  
+
