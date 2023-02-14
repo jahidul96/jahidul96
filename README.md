@@ -2,9 +2,9 @@
 #### I am React and React native (Mern Stack) Developer
 ![I am React and React native (Mern Stack) Dev](https://github.com/jahidul96/jahidul96/blob/main/cover.png)
 
-I have 1 year experience in frontend technology.worked on various local project also working as a project base developer. I love to learn new tech and contribute to different projects. if you have any related project you can knock me. thank you!. 
+I have 1 year experience in frontend technology. working as a project base developer. I love to learn new tech and want to contribute in different projects. if you have any related project you can knock me. thank you!. 
 
-Skills:   HTML / CSS / JS / React / React Native / node js / mongo dB / express 
+Skills:   HTML / CSS / JS / React / React Native / node js / mongo dB / express / javascript/ typescropt / redux-toolkit / flutter
 
 - 🔭 I’m currently working on as a project base developer. 
 
