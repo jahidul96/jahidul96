@@ -4,9 +4,9 @@
 
 I have 1 year experience in frontend technology. working as a project base developer. I love to learn new tech and want to contribute in different projects. if you have any related project you can knock me. thank you!. 
 
-Skills:   HTML / CSS / JS / React / React Native / node js / mongo dB / express / javascript/ typescropt / redux-toolkit / flutter
+Skills:   HTML / CSS / JS / React / React Native / node js / mongo dB / express / javascript/ typescript / redux-toolkit / flutter
 
-- 🔭 I’m currently working on as a project base developer. 
+- 🔭 I’m currently working as a project base developer. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/jahidul96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedin.com/in/jahidul-islam-9b3a40231//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' >](https://www.facebook.com/jahidulislam5989)  
